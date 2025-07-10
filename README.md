@@ -72,7 +72,7 @@ OPENAI_API_KEY=SUA_CHAVE_API_AQUI
 
 ### Login:
 
-![image](https://github.com/user-attachments/assets/c8938dad-61a2-45f9-9364-e6b212a9d519)
+![image](https://github.com/user-attachments/assets/9003845a-15a1-4bed-b2cc-5b791bb54541)
 
 ### Redefinição de Senha:
 
