@@ -68,33 +68,33 @@ OPENAI_API_KEY=SUA_CHAVE_API_AQUI
 .env
 ```
 
-### Capturas de Tela 📱
+## Capturas de Tela 📱
 
-# Login:
+### Login:
 
 ![image](https://github.com/user-attachments/assets/c8938dad-61a2-45f9-9364-e6b212a9d519)
 
-# Redefinição de Senha:
+### Redefinição de Senha:
 
 ![2025-07-10_00h03_50](https://github.com/user-attachments/assets/7e0b1e44-7f7d-4c2e-95ec-0bcad2208d94)  ![2025-07-10_00h04_08](https://github.com/user-attachments/assets/09d14640-f610-496a-bcc5-40d3be3d1fc8)
 
-# Tratamento de Exceção:
+### Tratamento de Exceção:
 
 ![image](https://github.com/user-attachments/assets/ac2d91d8-a8da-4957-8122-677af3c55c96) 
 
-# Tela de Cadastro:
+### Tela de Cadastro:
 
 ![image](https://github.com/user-attachments/assets/181db6a1-5347-48f8-b687-9ecdf5fb87a3)
 
-# Home Page/Livros:
+### Home Page/Livros:
 
 ![image](https://github.com/user-attachments/assets/6f8dc0d9-d3ff-4ace-ba30-c7315aba9d44)
 
-# Capítulos/Versículos:
+### Capítulos/Versículos:
 
 ![image](https://github.com/user-attachments/assets/cc330fa0-70fd-4e98-b852-8d58c6f765d5) ![image](https://github.com/user-attachments/assets/a1e96396-0783-490a-abaf-a703bed5950d)
 
-# Tela de Estudo Bíblico + IA:
+### Tela de Estudo Bíblico + IA:
 
 ![image](https://github.com/user-attachments/assets/cdde72d1-a3b2-4f07-8396-a2b64ad4670e) ![image](https://github.com/user-attachments/assets/c4350745-9fab-4433-812f-f7cdc3d96700)
 
