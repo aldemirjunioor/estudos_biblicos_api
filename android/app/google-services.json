@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890142599576",
+    "project_id": "estudos-biblicos-api",
+    "storage_bucket": "estudos-biblicos-api.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890142599576:android:5025604d38a7eda6ffe3ed",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPTpWoQVfixzlZEt78yUDgZu8-KfJt-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
