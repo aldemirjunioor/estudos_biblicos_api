@@ -98,7 +98,7 @@ OPENAI_API_KEY=SUA_CHAVE_API_AQUI
 
 ![image](https://github.com/user-attachments/assets/cdde72d1-a3b2-4f07-8396-a2b64ad4670e) ![image](https://github.com/user-attachments/assets/c4350745-9fab-4433-812f-f7cdc3d96700)
 
-###Estudos Salvos:
+### Estudos Salvos:
 
 ![image](https://github.com/user-attachments/assets/8b7a918d-55aa-4c98-a1ce-544c43dfe145)  ![image](https://github.com/user-attachments/assets/4014ce73-7f7a-4897-9202-5221f3b579b6)
 
